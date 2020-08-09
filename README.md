@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/age-17-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/highschool--student-2nd--grade-blue?style=for-the-badge)
 
-![](https://img.shields.io/badge/OS-ArchLinux/macOS-blue?style=for-the-badge)
+![](https://img.shields.io/badge/OS-(Arch)Linux/macOS-blue?style=for-the-badge)
 
 ![](https://img.shields.io/badge/editor-(n)vim/vscode/IDEA-blue?style=for-the-badge)
 
@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Python-BASICS-blue?style=for-the-badge" />
   <br />
   <img src="https://img.shields.io/badge/MongoDB-BASICS-blue?style=for-the-badge" />
+  <br />
+  <img src="https://img.shields.io/badge/Docker-BASICS-blue?style=for-the-badge" />
   <br />
 </details>
 
